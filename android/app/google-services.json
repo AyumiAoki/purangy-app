@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401829163969",
+    "project_id": "purangy-3e896",
+    "storage_bucket": "purangy-3e896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401829163969:android:4b4e502f6e16d66ae47540",
+        "android_client_info": {
+          "package_name": "com.example.purangy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuBJlbsypGdMjnfRzlpKPGpNqu5qvL09Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
